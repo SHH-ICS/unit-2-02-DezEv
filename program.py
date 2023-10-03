@@ -2,4 +2,4 @@
 
 
 def myFunction():
-  return "Hello, World!"
+  return "Hello World!"
